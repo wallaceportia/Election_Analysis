@@ -35,7 +35,7 @@ with open(file_to_load) as election_data:
     file_reader = csv.reader(election_data)
 
     #Read the header row
-    #headers = next(file_reader)   
+    headers = next(file_reader)   
     #Print Print each row in the CSV file.
     for row in file_reader:
            
@@ -98,3 +98,5 @@ winning_candidate_summary = (
     f"Winning Percentage: {winning_percentage:.1f}%\n" +
     f"----------------------------\n")
 print(winning_candidate_summary)
+with open(file_to_save, "w")as file:
+    file.write(winning_candidate_summary)
