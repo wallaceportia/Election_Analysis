@@ -31,14 +31,18 @@ The analaysis of the elections show that
           
           Pecentage of Votes
           
-          ![Percentage_of_Votes]https://github.com/wallaceportia/Election_Analysis/commit/c09e8f78f58698d13c3e7430b3006775410498a5
+          ![Percentage_of_Votes]
 
 ## Election-Audit Summary
 
-To the Board of Elections: I will like to propose the use of this script to analyse your election data, as it accomplishes the elements of ensuring accurate election reporting. This script gives clear statistics on largest voter turnout, as well as the percentage of voter turnout in each electoral county.  Further to this it gives clear statistics on the percentage of total votes each candidate recieved thus demonstrating a clear winner! The script offers clear concise and quick results, and will does improve confidence in the population at large that they they participated in a fair election and that the chosen candidate has won!
+To the Board of Elections: I will like to propose the use of this script to analyse your election data, as it accomplishes the elements of ensuring accurate election reporting. This script gives clear statistics on largest voter turnout, as well as the percentage of voter turnout in each electoral county.  Further to this it gives clear statistics on the percentage of total votes each candidate recieved thus demonstrating a clear winner! The script offers clear concise and quick results, and will does improve confidence in the population at large that they they participated in a fair election and that the chosen candidate has won! (Refer to Election Results - png)
 
 # However I would like to suggest two modification:
 
   #Firstly whereas the script determine the the percentage of voters that turned out in each county, it would be useful to calculate what was the actually count of registered   voters as compared to adults of an eligible age to vote(most recent census). With this analysis counties can determine if they should increase their canvasing budject to encourage voter registration.   
   
   #Secondly it would also be useful to add a script that could count the number of votes per poll in every county to find if there is a realationship between the number of polls and voter turnout. This knowledge can help the commisioner to decide if to increase the budgest for future elections, to have more polling stations as convience of polls might be indicative of voter turnout
+  
+  Election Results
+  
+  ![Election_Results]Resources/Election_Results.png
