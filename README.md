@@ -31,7 +31,7 @@ The analaysis of the elections show that
           
           Pecentage of Votes
           
-          ![Percentage_of_Votes]Resources/Percentage_of_Votes.png
+          ![Percentage_of_Votes](Resources/Percentage_of_Votes.png)
 
 ## Election-Audit Summary
 
@@ -45,4 +45,4 @@ To the Board of Elections: I will like to propose the use of this script to anal
   
   Election Results
   
-  ![Election_Results]Resources/Election_Results.png
+  ![Election_Results](Resources/Election_Results.png)
