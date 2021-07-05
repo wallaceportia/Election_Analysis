@@ -29,7 +29,9 @@ The analaysis of the elections show that
     - Diana DeGette who recieved 73.8 % of a total of 369,711 voters that is 272,892 votes
    Charles Casper Stockam came in a distant second with only 23% of the votes.
           
-
+          Election_Results
+          
+          ![Election_Results]https://github.com/wallaceportia/Election_Analysis/commit/c09e8f78f58698d13c3e7430b3006775410498a5
 
 ## Election-Audit Summary
 
