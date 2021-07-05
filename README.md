@@ -31,7 +31,7 @@ The analaysis of the elections show that
           
           Pecentage of Votes
           
-          ![Percentage_of_Votes]
+          ![Percentage_of_Votes]Resources/Percentage_of_Votes.png
 
 ## Election-Audit Summary
 
